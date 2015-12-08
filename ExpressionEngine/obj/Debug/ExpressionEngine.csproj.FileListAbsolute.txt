@@ -1,0 +1,6 @@
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\bin\Debug\ExpressionEngine.exe.config
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\bin\Debug\ExpressionEngine.exe
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\bin\Debug\ExpressionEngine.pdb
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\obj\Debug\ExpressionEngine.csprojResolveAssemblyReference.cache
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\obj\Debug\ExpressionEngine.exe
+C:\Users\Eric Chen\Desktop\CptS 322\Spreadsheet_EChen\ExpressionEngine\obj\Debug\ExpressionEngine.pdb
