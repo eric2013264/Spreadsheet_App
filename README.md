@@ -1,4 +1,13 @@
 # Spreadsheet_App
-Spreadsheet application I wrote in C# over the majority of a semester in CptS 322. 
+CptS 322 (Software Engineering I) Course Project: Spreadsheet Application.
 
-Basically Excel with basic functionality such as saving to a file, loading from a file, undo and redo, and expression evaluation.
+A Windows Form Application written in C#, developed in Visual Studio Ultimate 2015 over the semester.
+
+Essentially Excel but only with basic functionality such as saving to and reading from save files, undo and redo, and expression evaluation.
+
+Functionality: 
+- Formula/Expression evaluation using expression trees that can handle user-defined variables. (HW 7)
+- Undo and redo actions using stack. (HW 8)
+- XML save format for saves and loads. (HW 9)
+- Cell formatting: Color
+- Ability to handle circular references. (HW 10)
