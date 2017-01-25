@@ -9,5 +9,5 @@ Functionality:
 - Formula/Expression evaluation using expression trees that can handle user-defined variables. (HW 7)
 - Undo and redo actions using stack. (HW 8)
 - XML save format for saves and loads. (HW 9)
-- Cell formatting: Color
+- Cell formatting: Cell background color
 - Ability to handle circular references. (HW 10)
